@@ -1,6 +1,6 @@
 # RISC-V CPU
 
-清华大学《计算机组成原理》2022 秋大实验。
+清华大学《计算机组成原理》2022 秋大实验——五级流水线 RISC-V CPU.
 
 Course Project of *Computer Organization & Design*, 2022 Fall, THU.
 
